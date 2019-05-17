@@ -1,0 +1,13 @@
+{
+  "loopback-component-logger": {
+    "enableAPI": true,
+    "enabled": true,
+    "name": "logger",
+    "http": true,
+    "level": "info",
+    "useStdOut": true,
+    "useLogFile": false,
+    "path": "./logs",
+    "maxResponseTime": 30000
+  }
+}
